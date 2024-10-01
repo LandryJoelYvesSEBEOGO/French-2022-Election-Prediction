@@ -32,4 +32,4 @@ We ran simulations using normal distributions for key variables (e.g., education
 Conclusions
 After evaluating different models, the decision tree model stands out as the most effective for predicting presidential election outcomes at the commune level. Features related to population density and educational attainment by region are shown to be strong predictors of which candidates are likely to win.
 
-The model is particularly adept at predicting the outcome in regions where these demographic factors play a significant role. Going forward, incorporating more granular data or additional socio-economic factors could further enhance prediction accuracy.
+# YES THE WINNER WAS EMMANUEL MACRON
