@@ -2,6 +2,7 @@
 
 # Project Overview
 This project focuses on predicting election outcomes at the commune level using data from the 2012 and 2017 elections. The goal is to create a model capable of forecasting election results with high accuracy by analyzing historical election data along with demographic, economic, and educational features.
+![elections analysis](https://github.com/LandryJoelYvesSEBEOGO/French-2022-Election-prediction/blob/main/elections%20analysis.png)
 
 # Data Sources
 Electoral Data (2012, 2017): Historical election results at the commune level, used for training and validation.
